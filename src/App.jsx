@@ -48,7 +48,7 @@ import DepositHist from "./UserPanel/component/Deposit/DepositHistory";
 import TransactionHistory from "./UserPanel/pages/Account/TransactionHistory";
 import GameStatistics from "./UserPanel/pages/Account/GameStatistics";
 import WithdrawHistory from "./UserPanel/component/Withdraw/WithdrawHistory";
-import Deposit from "./UserPanel/component/deposit/Deposit";
+import Deposit from "./UserPanel/component/Deposit/Depositt";
 import Withdraw from "./UserPanel/component/Withdraw/Withdraw";
 import Vip from "./UserPanel/component/VIP/Vip";
 import Notification from "./UserPanel/component/dashboard/Notification";
